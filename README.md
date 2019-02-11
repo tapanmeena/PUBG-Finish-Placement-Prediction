@@ -6,3 +6,7 @@ https://kaggle.com/c/pubg-finish-placement-prediction
 make a folder named input outside code folder
 and the dataset into that folder
 then run the Jupyter Notebook
+
+
+for above Notebook 
+The Mean Absolute Error(MAE) is 0.05040
