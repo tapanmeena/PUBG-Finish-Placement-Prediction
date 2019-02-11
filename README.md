@@ -1,4 +1,4 @@
-# PUBG-Finsih-Placement-Prediction
+# PUBG-Finish-Placement-Prediction
 
 download dataset from kaggle
 <br>
@@ -8,5 +8,5 @@ and the dataset into that folder
 then run the Jupyter Notebook
 
 
-for above Notebook 
+for above Notebook <br>
 The Mean Absolute Error(MAE) is 0.05040
