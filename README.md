@@ -3,7 +3,7 @@
 download dataset from kaggle
 <br>
 https://kaggle.com/c/pubg-finish-placement-prediction
-make a folder named input outside code folder
+make a folder named<b> input </b>outside <b>code </b>folder
 and the dataset into that folder
 then run the Jupyter Notebook
 
